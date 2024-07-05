@@ -28,16 +28,6 @@ const skills = [
         items: ["Linux", "Windows"]
     }
 ];
-
-console.log(`Name: ${name}`);
-console.log(`Stack: ${stack}`);
-console.log(`Hobby: ${hobby}`);
-console.log("Skills:");
-
-skills.forEach(skill => {
-    console.log(`${skill.type.charAt(0).toUpperCase() + skill.type.slice(1)}:`);
-    skill.items.forEach(item => console.log(`  - ${item}`));
-});
 ```
 
 ## Let's Connect
