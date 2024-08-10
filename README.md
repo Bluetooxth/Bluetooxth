@@ -9,7 +9,6 @@
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![ExpressJS](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Mongoose](https://skillicons.dev/icons?i=mongoose)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![ReactJS](https://skillicons.dev/icons?i=react)
