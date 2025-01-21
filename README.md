@@ -36,13 +36,16 @@ Passionate developer Building applications with modern technologies while consta
 ## LeetCode Stats
 
 <div align="">
-  <img src="https://leetcard.jacoblin.cool/bluetooxth?theme=dark" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/bluetooxth?theme=nord" alt="LeetCode Stats">
 </div>
 
 ## GitHub Stats
 
 <div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluetooxth&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluetooxth&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluetooxth&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=bluetooxth&show_icons=true&theme=nord" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluetooxth&theme=nord" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluetooxth&layout=compact&theme=nord" alt="Top Languages">
 </div>
+
+## GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bluetooxth&theme=nord)
